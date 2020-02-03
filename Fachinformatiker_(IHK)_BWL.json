@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Ausschreibung -> Produktion -> Kunden -> Leasing",
+        "Lieferanten -> Einkauf -> Produktion -> Vertrieb -> Kunden",
+        "Vetrieb -> Inventur -> Produktion -> Kunden"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Welche Teilnehmer und in welcher Reihenfolge bilden die Supply-Chain?"
+    },
+    {
+      "answers": [
+        "Materialfluss verl\u00c3\u00a4uft vorrauseilend. Informationsfluss verl\u00c3\u00a4uft nachlaufend.",
+        "Materialfluss verl\u00c3\u00a4uft immer in eine Richtung vom Lieferanten zum Kunden. Informationsfluss kann in verschiedene Richtungen laufen.",
+        "Materialfluss verl\u00c3\u00a4uft unidirektional. Informationsfluss verl\u00c3\u00a4uft parallel."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "// this image will appear along with"
+      },
+      "number": 3,
+      "prompt": "Worin unterscheiden sich Materialfluss und Informationsfluss?"
+    }
+  ],
+  "title": "Fachinformatiker (IHK) Pr\u00c3\u00bcfungsvorbereitung BWL - Multiple Choice Test;",
+  "url": "http://fiaep.github.io/quick-quiz/"
+}
