@@ -14,9 +14,9 @@
     },
     {
       "answers": [
-        "Materialfluss verl\u00c3\u00a4uft vorrauseilend. Informationsfluss verl\u00c3\u00a4uft nachlaufend.",
-        "Materialfluss verl\u00c3\u00a4uft immer in eine Richtung vom Lieferanten zum Kunden. Informationsfluss kann in verschiedene Richtungen laufen.",
-        "Materialfluss verl\u00c3\u00a4uft unidirektional. Informationsfluss verl\u00c3\u00a4uft parallel."
+        "Materialfluss verl&auml;uft vorrauseilend. Informationsfluss verl&auml;uft nachlaufend.",
+        "Materialfluss verl&auml;uft immer in eine Richtung vom Lieferanten zum Kunden. Informationsfluss kann in verschiedene Richtungen laufen.",
+        "Materialfluss verl&auml;uft unidirektional. Informationsfluss verl&auml;uft parallel."
       ],
       "correct": {
         "index": 1,
@@ -26,6 +26,6 @@
       "prompt": "Worin unterscheiden sich Materialfluss und Informationsfluss?"
     }
   ],
-  "title": "Fachinformatiker (IHK) Pr\u00c3\u00bcfungsvorbereitung BWL - Multiple Choice Test;",
-  "url": "http://fiaep.github.io/quick-quiz/"
+  "title": "Fachinformatiker (IHK) Pr&uuml;fungsvorbereitung BWL - Multiple Choice Test;",
+  "url": "https://fiaep.github.io/quick-quiz/"
 }
