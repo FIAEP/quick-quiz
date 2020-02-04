@@ -8,10 +8,10 @@
       ],
       "correct": {
         "index": 1,
-		"text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
+	"text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
       },
       "number": 1,
-      "prompt": "Wie lautet die Zahl 10 aus dem Dezimalsystem im Dualsystem?"
+      "prompt": "Wie lautet die Zahl 10 aus dem Dezimalsystem im Binärsystem?"
     },
     {
       "answers": [
@@ -20,7 +20,7 @@
         "C"
       ],
       "correct": {
-        "index": 2,
+        "index": 0,
         "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
       },
       "number": 2,
@@ -30,23 +30,24 @@
       "answers": [
         "12",
         "8",
-        "9"
+        "9",
+	"24"      
       ],
       "correct": {
         "index": 2,
         "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
       },
       "number": 3,
-      "prompt": "Wie lautet die Zahl 1001 aus dem Binärsystem im Hexadezimalsystem?"
+      "prompt": "Wie lautet die Zahl 1001 aus dem Binärsystem im Dezimalsystem?"
     },
 	{
       "answers": [
-        "12",
-        "8",
-        "9"
+        "1111011",
+        "1011011",
+        "1101011"
       ],
       "correct": {
-        "index": 2,
+        "index": 0,
         "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
       },
       "number": 4,
