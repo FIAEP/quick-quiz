@@ -1,0 +1,57 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "1FF",
+        "11111111",
+        "10000001"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Wie lautet die Zahl 10 aus dem Dezimalsystem im Dualsystem?"
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
+      },
+      "number": 2,
+      "prompt": "Wie lautet die Zahl 10 aus dem Dezimalsystem im Hexadezimalsystem?"
+    },
+	{
+      "answers": [
+        "12",
+        "8",
+        "9"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
+      },
+      "number": 3,
+      "prompt": "Wie lautet die Zahl 1001 aus dem Binärsystem im Hexadezimalsystem?"
+    }
+	{
+      "answers": [
+        "12",
+        "8",
+        "9"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
+      },
+      "number": 4,
+      "prompt": "Wie lautet die Zahl 123 aus dem Dezimalsystem im Binärsystem?"
+    }
+  ],
+  "title": "Fachinformatiker (IHK) Prüfungsvorbereitung Elektro-Digital-Netzwerktechnik - Multiple Choice Test",
+  "url": "https://fiaep.github.io/quick-quiz/"
+}
