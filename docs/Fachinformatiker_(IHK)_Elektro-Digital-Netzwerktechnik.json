@@ -7,7 +7,8 @@
         "10000001"
       ],
       "correct": {
-        "index": 1
+        "index": 1,
+		"text": "Für mehr Information siehe: https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"
       },
       "number": 1,
       "prompt": "Wie lautet die Zahl 10 aus dem Dezimalsystem im Dualsystem?"
@@ -37,7 +38,7 @@
       },
       "number": 3,
       "prompt": "Wie lautet die Zahl 1001 aus dem Binärsystem im Hexadezimalsystem?"
-    }
+    },
 	{
       "answers": [
         "12",
