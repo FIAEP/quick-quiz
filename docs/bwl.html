@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>Quiz Example</title>
+  <title>Quiz: Fachinformatiker(IHK) BWL</title>
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="sweet-alert.css">
@@ -23,16 +23,10 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
   <script src="sweet-alert.js"></script>
   <script src="quiz.js"></script>
-  <div class="container-fluid">
-  <h2>Verfügbare Multiple Choice Tests:</2>
-	<td>
-		<tr>
-			<a href="bwl.html">Fachinformatiker (IHK) BWL</a>
-		</tr>
-		<tr>
-			<a href="elektro-digital-netzwerktechnik.html">Fachinformatiker (IHK) Elektro-Digital-Netzwerktechnik</a>
-		</tr>
-	<td>
-  </div>
+  <script>
+    $(function() {
+      $('#quiz').quiz("Fachinformatiker_(IHK)_BWL.json");
+    });
+  </script>
 </body>
 </html>
