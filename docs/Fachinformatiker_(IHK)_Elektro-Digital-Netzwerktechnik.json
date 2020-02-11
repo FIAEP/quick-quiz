@@ -31,7 +31,7 @@
         "12",
         "8",
         "9",
-	"24"      
+		"24"      
       ],
       "correct": {
         "index": 2,
@@ -52,6 +52,48 @@
       },
       "number": 4,
       "prompt": "Wie lautet die Zahl 123 aus dem Dezimalsystem im Binärsystem?"
+    },
+	{
+      "answers": [
+        "0",
+        "2",
+        "4",
+		"1"      
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Siehe: http://dispert.international-university.eu/Digital_Design_Website_German/digital2/dig002_2.htm"
+      },
+      "number": 5,
+      "prompt": "Minterm-Funktion: diese Funktion erzeugt nur eine einzige (?)"
+    },
+	{
+      "answers": [
+        "(nicht a) oder (nicht b)",
+        "(nicht a) und (nicht b)",
+        "(nicht a) und (b)",
+		"a oder (nicht b)"      
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Siehe: https://de.wikipedia.org/wiki/De_Morgansche_Gesetze"
+      },
+      "number": 6,
+      "prompt": "Eines der beiden De Morganschen Gesetze lautet: nicht (a und b) = ???"
+    },
+	{
+      "answers": [
+        "0",
+        "2",
+        "4",
+		"1"      
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Siehe: http://dispert.international-university.eu/Digital_Design_Website_German/digital2/dig002_2.htm"
+      },
+      "number": 7,
+      "prompt": "Maxterm-Funktion: diese Funktion erzeugt nur eine einzige (?)"
     }
   ],
   "title": "Fachinformatiker (IHK) Prüfungsvorbereitung Elektro-Digital-Netzwerktechnik - Multiple Choice Test",
