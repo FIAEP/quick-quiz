@@ -356,6 +356,11 @@ function facebook(state, opts) {
   return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
 }
 
+function toogleDarkMode() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+} 
+
 
 })(jQuery);
 
