@@ -3,6 +3,12 @@ html, body {
   font-family: Lato;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
 .quiz-question {
   width: 100%;
   max-width: 500px;
